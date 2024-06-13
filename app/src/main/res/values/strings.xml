@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="instructions">Descifra la palabra (en ingles) usando todas las letras.</string>
+    <string name="skip">Saltar</string>
+    <string name="submit">Enviar</string>
+    <string name="score">Puntuación: %d</string>
+    <string name="word_count">%d/10</string>
+    <string name="enter_your_word">Ingresa tu palabra</string>
+    <string name="congratulations">Felicitaciones!</string>
+    <string name="you_scored">"Tu puntuación: %d"</string>
+    <string name="exit">Salir</string>
+    <string name="play_again">Jugar otra vez</string>
+    <string name="wrong_guess">Equivocado!</string>
+</resources>
